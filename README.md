@@ -14,3 +14,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Socials
 
+<a href="https://twitter.com/m1tyya">
+	<img src="./assets/icons/twitter.svg" alt="Twitter Profile" width="60" height="60" />
+</a>
+<a href="https://www.linkedin.com/in/dymytriyv">
+	<img src="./assets/icons/linkedin.svg" alt="LinkedIn Profile" width="60" height="60" />
+</a>
